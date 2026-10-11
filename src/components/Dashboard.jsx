@@ -70,7 +70,7 @@ export default function Dashboard({ go, setSession }) {
     <>
       <div className="hero-band">
         <div>
-          <h1>CALIBRIX 2.0</h1>
+          <h1>CALIBRIX 2.0 - 24hrs Hackathon by EIE Association</h1>
           <p>
             Digital attendance across {data.sessions.length} sessions. Add
             members, print QR codes, scan at the door.
